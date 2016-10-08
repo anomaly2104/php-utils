@@ -1,0 +1,13 @@
+{
+    "name": "uditiiita/php-utils",
+    "description": "Utility files for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Udit Agarwal",
+            "email": "hello@uditagarwal.com",
+            "homepage": "http://uditagarwal.com"
+        }
+    ]
+}
